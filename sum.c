@@ -8,6 +8,7 @@
 		sum=sum+i;
 	}
 	printf("The sum of %d is %d.\n", n, sum);
-	return sum;
 
+	return sum;
+}
 
