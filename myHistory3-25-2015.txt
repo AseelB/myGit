@@ -125,3 +125,27 @@
   125  ls
   126  ls
   127  history>myHistory3-25-2015.txt
+  128  git status
+  129  git commit
+  130  git add .
+  131  git add.
+  132  git add .
+  133  git status
+  134  git commit
+  135  git status
+  136* git add/rm 
+  137* git remote add newOrigin https://github.com/1237/myGit.g
+  138  git push newOrigin master
+  139  git pull https://github.com/AseelB/myGit.git
+  140  git status
+  141  git checkout -- <sum.c>
+  142  git checkout --help
+  143  git checkout -- sum.c
+  144  git status
+  145  git checkout -- factorial.c
+  146  git status
+  147  git push newOrigin master
+  148  ls
+  149  git pull https://github.com/AseelB/myGit.git
+  150  newOrigin
+  151  history>myHistory3-25-2015.txt
