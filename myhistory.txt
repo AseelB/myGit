@@ -1,0 +1,31 @@
+    1  git config --global user.name Yinghua Sun
+    2  git config --global user.email syh19258@hotmail.com
+    3  mkdir myFirst
+    4  ls
+    5  cd myFirst
+    6  pwd
+    7  vim hello.c
+    8  git init
+    9  ls
+   10  git add
+   11  git add.
+   12  git add .
+   13  git commit
+   14  vim hello.c
+   15  git status
+   16  git add .
+   17  git commit
+   18  git status
+   19  git add .
+   20  git commit
+   21  git status
+   22  git push origin master
+   23  git remote add origin https://github.com/syh0829sssis
+   24  git remote add origin https://github.com/syh0829/myFirst.git
+   25  git push origin master
+   26  git remote set-url origin http://github.com/syh0829/myFirst.git
+   27* 
+   28  git push origin master
+   29  git pull origin master
+   30  history
+   31  history>>myhistory

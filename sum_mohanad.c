@@ -14,4 +14,5 @@ scanf("%d",&x);
 sum=sum+x;
 }
 printf("The Sumation = %d \n",sum);
+printf("Yinghua modified it.\n");
 }
